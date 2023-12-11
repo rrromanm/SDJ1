@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hotel/Hotel.iml" filepath="$PROJECT_DIR$/Hotel/Hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recap Exercice/Recap Exercice.iml" filepath="$PROJECT_DIR$/Recap Exercice/Recap Exercice.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ1.iml" filepath="$PROJECT_DIR$/SDJ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentList/StudentList.iml" filepath="$PROJECT_DIR$/StudentList/StudentList.iml" />
     </modules>
   </component>
 </project>

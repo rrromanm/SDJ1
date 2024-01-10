@@ -25,7 +25,7 @@ public class Lesson
     return date;
   }
 
-  public Resource[] getResources()
+  public Resource getResources()
   {
     return resources;
   }
